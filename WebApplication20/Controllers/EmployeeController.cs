@@ -11,6 +11,8 @@ namespace WebApplication20.Controllers
 {
     public class EmployeeController : Controller
     {
+        //hi sk
+
 
         private IEmployeeRepository _employeeRepository;
         //public EmployeeController()
@@ -83,6 +85,8 @@ namespace WebApplication20.Controllers
 
 
         }
+
+
 
 
 
